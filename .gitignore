@@ -22,4 +22,4 @@ doc/
 .DS_Store
 
 # Ignore the private db info
-/db/database.yml
+/config/database.yml
